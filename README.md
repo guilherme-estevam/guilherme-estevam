@@ -42,7 +42,7 @@ Atuo próximo ao negócio, com foco em qualidade de dados, confiabilidade das m�
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *linkedin.com/in/guilherme-estevam-castro*  
+- 💼 LinkedIn: *https://linkedin.com/in/guilherme-estevam-castro*  
 - 📧 E-mail: *guiestevam64@gmail.com*
 
 ---
