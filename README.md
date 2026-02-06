@@ -12,19 +12,19 @@ Atuo próximo ao negócio, com foco em qualidade de dados, confiabilidade das m�
 
 - Formação em **Análise e Desenvolvimento de Sistemas (ADS)**
 - Experiência prática com **dados operacionais e métricas de atendimento**
-- Atuação com **CSAT, volume de atendimentos, acompanhamento mensal de metas**
+- Atuação com **CSAT, volume de atendimentos e acompanhamento mensal de metas**
 - Forte preocupação com **consistência, rastreabilidade e precisão dos dados**
-- Perfil analítico, questionador e orientado a melhoria de processos
+- Perfil analítico, questionador e orientado à melhoria de processos
 
 ---
 
 ## 🛠️ Stack de Dados
 
 - **SQL**  
-  Consultas analíticas, filtros, agregações, `CASE WHEN`, `JOINs`, validação de métricas
+  Consultas analíticas, filtros, agregações, `CASE WHEN`, junções (`JOIN`), validação de métricas
 
 - **Excel / Google Sheets**  
-  Tabelas dinâmicas, funções lógicas, PROCV/XLOOKUP, organização de bases analíticas
+  Análise de dados, modelagem e organização de bases, tabelas dinâmicas e suporte à tomada de decisão
 
 - **Dashboards**  
   Power BI / Looker Studio com foco em leitura executiva e acompanhamento de métricas
@@ -36,7 +36,7 @@ Atuo próximo ao negócio, com foco em qualidade de dados, confiabilidade das m�
   Análise de dados com pandas e apoio à automação de rotinas
 
 - **Versionamento**  
-  Git & GitHub
+  Git e GitHub
 
 ---
 
