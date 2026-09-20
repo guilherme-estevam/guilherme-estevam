@@ -1,50 +1,73 @@
-# 👋 Guilherme Estevam | Analista de Dados
+# 👋 Guilherme Estevam | Desenvolvedor de Software
 
-Análise de dados aplicada a métricas operacionais, automação de rotinas e leitura de indicadores de negócio.
+Desenvolvedor de Software com formação em **Análise e Desenvolvimento de Sistemas**, experiência prática em desenvolvimento de soluções, automação de processos, integração de sistemas e manipulação de dados.
 
-Formado em Análise e Desenvolvimento de Sistemas, com experiência prática em dados operacionais, métricas de atendimento e análise de performance.
-
-Atuo próximo ao negócio, com foco em qualidade de dados, confiabilidade das métricas e melhoria contínua de processos analíticos. Tenho interesse em ambientes de dados bem estruturados, automação de rotinas e decisões orientadas por indicadores.
+Tenho interesse em desenvolvimento de aplicações, automações e soluções que utilizem tecnologia para resolver problemas e otimizar processos. Experiência com **Python, Java, SQL, JavaScript, n8n e Databricks**, além de ferramentas de versionamento e desenvolvimento.
 
 ---
 
 ## 🔍 Perfil Profissional
 
-- Formação em **Análise e Desenvolvimento de Sistemas (ADS)**
-- Experiência prática com **dados operacionais e métricas de atendimento**
-- Atuação com **CSAT, volume de atendimentos e acompanhamento mensal de metas**
-- Forte preocupação com **consistência, rastreabilidade e precisão dos dados**
-- Perfil analítico, questionador e orientado à melhoria de processos
+* Formação em **Análise e Desenvolvimento de Sistemas (ADS)**
+* Experiência com **desenvolvimento de soluções e automação de processos**
+* Desenvolvimento e integração de soluções utilizando **APIs e diferentes fontes de dados**
+* Experiência com **tratamento, manipulação e análise de dados**
+* Construção de **dashboards e ferramentas de acompanhamento**
+* Utilização de **Inteligência Artificial** no desenvolvimento de projetos e soluções
+* Conhecimentos em **Git e GitHub**
+* Perfil analítico, orientado à resolução de problemas e melhoria contínua
 
 ---
 
-## 🛠️ Stack de Dados
+## 🛠️ Stack
 
-- **SQL**  
-  Consultas analíticas, filtros, agregações, `CASE WHEN`, junções (`JOIN`), validação de métricas
+### Linguagens
 
-- **Excel / Google Sheets**  
-  Análise de dados, modelagem e organização de bases, tabelas dinâmicas e suporte à tomada de decisão
+* **Python**
+* **Java**
+* **JavaScript**
+* **SQL**
+* **HTML / CSS**
 
-- **Dashboards**  
-  Power BI / Looker Studio com foco em leitura executiva e acompanhamento de métricas
+### Desenvolvimento & Automação
 
-- **Automação & Dados**  
-  Conceitos de ETL, pipelines de dados, atualização recorrente de bases e dashboards
+* **n8n**
+* **Integrações e APIs**
+* **ETL**
+* **Automação de processos**
 
-- **Python**  
-  Análise de dados com pandas e apoio à automação de rotinas
+### Dados
 
-- **Versionamento**  
-  Git e GitHub
+* **Databricks**
+* **Excel / Google Sheets**
+* **Power BI / ferramentas de BI**
+* **Dashboards**
+
+### Versionamento
+
+* **Git**
+* **GitHub**
+
+---
+
+## 🚀 Projetos
+
+Em constante desenvolvimento de projetos voltados para:
+
+* Desenvolvimento de aplicações
+* Automação de processos
+* Integração entre sistemas e APIs
+* Tratamento e processamento de dados
+* Inteligência Artificial
+* Soluções para otimização de processos
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *https://linkedin.com/in/guilherme-estevam-castro*  
-- 📧 E-mail: *guiestevam64@gmail.com*
+* 💼 LinkedIn: https://linkedin.com/in/guilherme-estevam-castro
+* 📧 E-mail: [guiestevam64@gmail.com](mailto:guiestevam64@gmail.com)
 
 ---
 
-📌 *Portfólio em constante evolução, com foco em análise de dados aplicada ao negócio.*
+📌 *Portfólio em constante evolução, com foco em desenvolvimento de software, automação e soluções orientadas a tecnologia.*
